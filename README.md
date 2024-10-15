@@ -7,13 +7,6 @@
 - 🌐 Focused on Bussiness and Technology 
 - 👨‍🎓 Information Systems student at Universidade de São Paulo
 
-</br>
-
-<div align="center">
-    <img height="165px" width="50%" src="https://github-readme-stats.vercel.app/api?username=erikgaborim&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgaborim&layout=compact&theme=react"/>
-</div>
 
 ### Technologies of interest
 
@@ -21,9 +14,6 @@
     &ensp;&nbsp;&emsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &ensp;&nbsp;&emsp;
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 
