@@ -12,9 +12,10 @@
 
 <div align="center">
     &ensp;&nbsp;&emsp;
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
     &ensp;&nbsp;&emsp;
 </div>
+
 
 
 ### Contact me
