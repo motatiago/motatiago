@@ -1,12 +1,10 @@
-### Hi there 👋
-## I'm Erik Gaborim 👨‍💻
+
+## I'm Tiago Mota
 
 ### About me 
 
 - 🇧🇷 Brazilian
-- 🖥️ IT technician
-- 🌐 Focused on Web and Mobile Development
-- 💻 Interested in both Front-End and Back-End
+- 🌐 Focused on Bussiness and Technology 
 - 👨‍🎓 Information Systems student at Universidade de São Paulo
 
 </br>
@@ -20,21 +18,10 @@
 ### Technologies of interest
 
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    &ensp;&nbsp;&emsp;
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     &ensp;&nbsp;&emsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &ensp;&nbsp;&emsp;
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img height="45" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fexcel_732220&psig=AOvVaw3TaFGcL1ibV4xRBvqnzVa6&ust=1729110826429000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNidj_edkYkDFQAAAAAdAAAAABAE)">
     &ensp;&nbsp;&emsp;
     <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     &ensp;&nbsp;&emsp;
