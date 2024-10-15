@@ -20,10 +20,6 @@
 ### Contact me
 
 <p align="center">
-    <a href="https://t.me/erikgaborim">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/tiagomotalima/">
         <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
